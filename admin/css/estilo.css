@@ -1,0 +1,35 @@
+#menu{
+	box-shadow: 3px 3px 3px #E9E9E9;
+	padding: 1%;
+	background: #FCFCFC;
+}
+
+#rodape{
+	padding: 1%;
+	text-align: center;
+}
+
+.jumbotron{
+	margin:2%;
+	padding:5%;
+}
+
+#conteudo-principal{
+	margin:0 auto;
+	margin-top: 90px;
+	padding:2%;
+}
+
+.panel .panel-body{
+	box-shadow: 5px 3px 5px #E9E9E9;
+}
+
+.listagem tbody tr:hover td{
+	background: #d6c4ab;
+}
+
+#login{
+	width: 30%;
+	margin:0 auto;
+	margin-top: 10%;
+}
