@@ -92,7 +92,7 @@
 			 });
 
 			$(document).ready(function(){
-				<!-- Configuração da máscara para data e telefone -->
+			<!-- Configuração da máscara para data e telefone -->
 				$(".mascaraData").mask("99/99/9999");
 				$(".mascaraTelefone").mask("(99) 9999-9999");
 			});
